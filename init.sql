@@ -5,6 +5,6 @@ CREATE TABLE IF NOT EXISTS users (
 
 INSERT INTO users (name) VALUES
     ('ALI'),
-    ('Jane Smith'),
-    ('Bob Johnson')
+    ('TAHA'),
+    ('ANASS')
 ON CONFLICT DO NOTHING; 
